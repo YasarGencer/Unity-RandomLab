@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deb50b15e54a24b4483b42d9a80a5516, type: 3}
+  m_Name: Weapons
+  m_EditorClassIdentifier: 
+  items:
+  - weaponPrefab: {fileID: 2265625502977761379, guid: d0f45bc6940e8ab448a5d4c0cdcaf869, type: 3}
+    itemName: Pistol
+    sprites: {fileID: 21300000, guid: 6f13768187f2209419104c8fed4ed1c9, type: 3}
+  - weaponPrefab: {fileID: 1799451918023034418, guid: ab4c18dd0d68bd84cb044c3762ed21f4, type: 3}
+    itemName: Riffle
+    sprites: {fileID: 21300000, guid: 444ecde54cac435488a06f5220f4d3c6, type: 3}
+  - weaponPrefab: {fileID: 3568882743736289910, guid: 934e15db24a12af4fb9004c57a22b100, type: 3}
+    itemName: Auto
+    sprites: {fileID: 21300000, guid: 308a132a5e349404b9f22c4297ac509c, type: 3}
+  - weaponPrefab: {fileID: 4880178217423995991, guid: fea8a26b72f832e4cbe57e48b6f454e1, type: 3}
+    itemName: Charger
+    sprites: {fileID: 21300000, guid: a052f1d09218cac459f41d47a5bd6da4, type: 3}
