@@ -10,8 +10,8 @@
 
 ### Game
 
-[![Game1](https://img.itch.zone/aW1hZ2UvMTYyMDU1MS85NDg1OTQyLnBuZw==/347x500/yJxtaX.png "Game1")](https://benyasar.itch.io/randomlab "Game1")
+[![Game1](https://yasargencer.github.io/img/RandomLab03.jpg "Game1")](https://benyasar.itch.io/randomlab "Game1")
 
-[![Game2](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/453419/ekran_goruntusu_192_1.png?itok=DPRqRS32&timestamp=1643555810 "Game1")](https://benyasar.itch.io/siege-wizard "Game2")
+[![Game2](https://yasargencer.github.io/img/RandomLab01.jpg "Game1")](https://benyasar.itch.io/randomlab "Game2")
 
-[![Game2](https://ggj.s3.amazonaws.com/styles/game_content__wide/games/screenshots/2022/01/453419/ekran_goruntusu_189_1.png?itok=YM2uYCkm&timestamp=1643555810 "Game1")](https://benyasar.itch.io/siege-wizard "Game3")
+[![Game2](https://yasargencer.github.io/img/RandomLab02.jpg "Game1")](https://benyasar.itch.io/randomlab "Game3")
