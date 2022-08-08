@@ -1,17 +1,25 @@
-## Global Game Jam 2022
-This game coded in 48 hours for GMTK 2022
+## RandomLab
+This game coded in 50 hours for GMTK 2022
 
-[PLAY HERE](https://benyasar.itch.io/randomlab) 
+[PLAY HERE](https://benyasar.itch.io/randomlab "itch.io") 
 
-[Youtube Video](https://www.youtube.com/watch?v=vXtgUScJcGc "Game Video")
+[GAME WEBSITE](https://yasargencer.github.io/RandomLab.html "Game Website")
+
+[GAMEPLAY VIDEO](https://www.youtube.com/watch?v=vXtgUScJcGc "Game Video")
+
+### Game Summary
+This project was made for GMTK 2022. Theme was roll of the dice.
+We created a rogue-like game lab which generates player's gun, enemy count and lab itself. 
+The goal is the complete the challange which lab gives the player and move on to the next one.
+You can find more information on the game website.
 
 ### Project Team
 
-- 	[YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER")
+- [YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER")
 
-- 	[YUNUS BALKA]( "YUNUS BALKA")
+- [YUNUS BALKA](https://github.com/balkayunus7 "YUNUS BALKA")
 
-### Game
+### Game Screenshots
 
 [![Game1](https://yasargencer.github.io/img/RandomLab03.jpg "Game1")](https://benyasar.itch.io/randomlab "Game1")
 
