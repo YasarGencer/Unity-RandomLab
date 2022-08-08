@@ -1,5 +1,6 @@
 ### Global Game Jam 2022
-[This game coded in 48 hours for GMTK 2022](https://benyasar.itch.io/randomlab) 
+## [This game coded in 48 hours for GMTK 2022]
+(https://benyasar.itch.io/randomlab) 
 [Youtube Video](https://www.youtube.com/watch?v=vXtgUScJcGc "Game Video")
 ### Project Teams
 
