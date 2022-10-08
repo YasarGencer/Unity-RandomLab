@@ -1,6 +1,6 @@
 <h1 align="center">RandomLab</h1>
 
-    This game coded in 50 hours for GMTK 2022
+This game coded in 50 hours for GMTK 2022
 
 <h1 align="center">Game Links</h1>
 
@@ -12,10 +12,10 @@
 
  <h1 align="center">Game Summary</h1>
 
-    This project was made for GMTK 2022. Theme was roll of the dice.
-    We created a rogue-like game lab which generates player's gun, enemy count and lab itself. 
-    The goal is the complete the challange which lab gives the player and move on to the next one.
-    You can find more information on the game website.
+This project was made for GMTK 2022. Theme was roll of the dice.
+We created a rogue-like game lab which generates player's gun, enemy count and lab itself. 
+The goal is the complete the challange which lab gives the player and move on to the next one.
+You can find more information on the game website.
 
 <h1 align="center">Project Team</h1>
 
