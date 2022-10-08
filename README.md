@@ -19,9 +19,9 @@ You can find more information on the game website.
 
 <h1 align="center">Project Team</h1>
 
-- [YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER")
+- [YAŞAR GENÇER](https://github.com/YasarGencer "YAŞAR GENÇER") as Lead Developer
 
-- [YUNUS BALKA](https://github.com/balkayunus7 "YUNUS BALKA")
+- [YUNUS BALKA](https://github.com/balkayunus7 "YUNUS BALKA") as Game Developer
 
 
 <h1 align="center">Game Screenshots</h1>
